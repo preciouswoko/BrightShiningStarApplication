@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubscriptionApi", "SubscriptionApi\SubscriptionApi.csproj", "{D21A7937-DD6A-48E8-A346-ED87C62F2CA7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Phase1", "Phase1", "{C24DCE48-8C10-44DD-83FA-45C56BEF5234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D21A7937-DD6A-48E8-A346-ED87C62F2CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21A7937-DD6A-48E8-A346-ED87C62F2CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21A7937-DD6A-48E8-A346-ED87C62F2CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21A7937-DD6A-48E8-A346-ED87C62F2CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D21A7937-DD6A-48E8-A346-ED87C62F2CA7} = {C24DCE48-8C10-44DD-83FA-45C56BEF5234}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C4371F9-F524-43A3-BA89-0D04C85EC393}
+	EndGlobalSection
+EndGlobal
